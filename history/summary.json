@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/morganestes.com.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "2.72%",
-    "uptimeDay": "2.72%",
-    "uptimeWeek": "2.72%",
-    "uptimeMonth": "2.72%",
-    "uptimeYear": "2.72%",
-    "time": 132,
-    "timeDay": 132,
-    "timeWeek": 132,
-    "timeMonth": 132,
-    "timeYear": 132,
+    "uptime": "0.22%",
+    "uptimeDay": "0.22%",
+    "uptimeWeek": "0.22%",
+    "uptimeMonth": "0.22%",
+    "uptimeYear": "0.22%",
+    "time": 103,
+    "timeDay": 103,
+    "timeWeek": 103,
+    "timeMonth": 103,
+    "timeYear": 103,
     "dailyMinutesDown": {
-      "2022-12-29": 0
+      "2022-12-29": 4
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hosting.estestech.net.ico",
     "slug": "site-hosting",
     "status": "down",
-    "uptime": "7.09%",
-    "uptimeDay": "7.09%",
-    "uptimeWeek": "7.09%",
-    "uptimeMonth": "7.09%",
-    "uptimeYear": "7.09%",
+    "uptime": "0.34%",
+    "uptimeDay": "0.34%",
+    "uptimeWeek": "0.34%",
+    "uptimeMonth": "0.34%",
+    "uptimeYear": "0.34%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-29": 0
+      "2022-12-29": 4
     }
   },
   {
