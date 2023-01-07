@@ -17,7 +17,7 @@ assignees:
 
 status-website:
   baseUrl: /uptime-monitor
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/morganestes/master/assets/chart-line.svg
   theme: ocean 
   name: My Sites Monitor
   introTitle: "Site status monitor powered by Upptime.js"
