@@ -9,6 +9,8 @@ sites:
     url: https://estestech.net
   - name: Glitch in Bio
     url: https://links.morganestes.me
+  - name: The Lump Saga
+    url: https://thelumpsaga.estes.pw
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
