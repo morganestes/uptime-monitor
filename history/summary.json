@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/morganestes.com.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
-    "time": 133,
-    "timeDay": 421,
-    "timeWeek": 212,
-    "timeMonth": 133,
-    "timeYear": 133,
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
+    "time": 137,
+    "timeDay": 332,
+    "timeWeek": 244,
+    "timeMonth": 137,
+    "timeYear": 137,
     "dailyMinutesDown": {
       "2022-12-29": 127
     }
@@ -31,8 +31,8 @@
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.69%",
     "time": 244,
-    "timeDay": 379,
-    "timeWeek": 233,
+    "timeDay": 239,
+    "timeWeek": 243,
     "timeMonth": 244,
     "timeYear": 244,
     "dailyMinutesDown": {
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 284,
-    "timeDay": 491,
-    "timeWeek": 265,
-    "timeMonth": 284,
-    "timeYear": 284,
+    "time": 285,
+    "timeDay": 316,
+    "timeWeek": 297,
+    "timeMonth": 285,
+    "timeYear": 285,
     "dailyMinutesDown": {}
   }
 ]
