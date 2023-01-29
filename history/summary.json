@@ -24,9 +24,9 @@
     "url": "https://estestech.net",
     "icon": "https://icons.duckduckgo.com/ip3/estestech.net.ico",
     "slug": "site-hosting",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.72%",
@@ -36,6 +36,7 @@
     "timeMonth": 243,
     "timeYear": 243,
     "dailyMinutesDown": {
+      "2023-01-29": 0,
       "2022-12-29": 121
     }
   },
@@ -65,9 +66,9 @@
     "url": "https://thelumpsaga.estes.pw",
     "icon": "https://icons.duckduckgo.com/ip3/thelumpsaga.estes.pw.ico",
     "slug": "the-lump-saga",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -76,6 +77,8 @@
     "timeWeek": 331,
     "timeMonth": 287,
     "timeYear": 287,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-29": 0
+    }
   }
 ]
