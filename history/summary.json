@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
-    "time": 967,
-    "timeDay": 262,
-    "timeWeek": 4623,
-    "timeMonth": 2053,
-    "timeYear": 967,
+    "time": 1016,
+    "timeDay": 4488,
+    "timeWeek": 4455,
+    "timeMonth": 2194,
+    "timeYear": 1016,
     "dailyMinutesDown": {
       "2022-12-29": 127
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.83%",
-    "time": 268,
-    "timeDay": 489,
-    "timeWeek": 203,
-    "timeMonth": 294,
-    "timeYear": 268,
+    "time": 265,
+    "timeDay": 89,
+    "timeWeek": 178,
+    "timeMonth": 293,
+    "timeYear": 265,
     "dailyMinutesDown": {
       "2023-01-29": 17,
       "2022-12-29": 121
@@ -67,16 +67,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/thelumpsaga.estes.pw.ico",
     "slug": "the-lump-saga",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
-    "time": 412,
-    "timeDay": 503,
-    "timeWeek": 263,
+    "uptimeYear": "99.98%",
+    "time": 406,
+    "timeDay": 116,
+    "timeWeek": 236,
     "timeMonth": 512,
-    "timeYear": 412,
+    "timeYear": 406,
     "dailyMinutesDown": {
       "2023-01-29": 17
     }
