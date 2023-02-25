@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/morganestes.com.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.84%",
-    "time": 1016,
-    "timeDay": 4488,
-    "timeWeek": 4455,
-    "timeMonth": 2194,
-    "timeYear": 1016,
+    "uptimeYear": "99.85%",
+    "time": 1007,
+    "timeDay": 342,
+    "timeWeek": 3806,
+    "timeMonth": 2191,
+    "timeYear": 1007,
     "dailyMinutesDown": {
       "2022-12-29": 127
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.83%",
-    "time": 265,
-    "timeDay": 89,
-    "timeWeek": 178,
-    "timeMonth": 293,
-    "timeYear": 265,
+    "time": 267,
+    "timeDay": 394,
+    "timeWeek": 220,
+    "timeMonth": 294,
+    "timeYear": 267,
     "dailyMinutesDown": {
       "2023-01-29": 17,
       "2022-12-29": 121
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 406,
-    "timeDay": 116,
-    "timeWeek": 236,
+    "time": 408,
+    "timeDay": 490,
+    "timeWeek": 266,
     "timeMonth": 512,
-    "timeYear": 406,
+    "timeYear": 408,
     "dailyMinutesDown": {
       "2023-01-29": 17
     }
