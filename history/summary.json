@@ -4,9 +4,9 @@
     "url": "https://morganestes.com",
     "icon": "https://icons.duckduckgo.com/ip3/morganestes.com.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
@@ -16,6 +16,7 @@
     "timeMonth": 127,
     "timeYear": 732,
     "dailyMinutesDown": {
+      "2023-05-09": 0,
       "2023-02-28": 58,
       "2022-12-29": 127
     }
@@ -68,9 +69,9 @@
     "url": "https://thelumpsaga.estes.pw",
     "icon": "https://icons.duckduckgo.com/ip3/thelumpsaga.estes.pw.ico",
     "slug": "the-lump-saga",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
@@ -80,6 +81,7 @@
     "timeMonth": 229,
     "timeYear": 320,
     "dailyMinutesDown": {
+      "2023-05-09": 0,
       "2023-05-07": 40,
       "2023-01-29": 17
     }
