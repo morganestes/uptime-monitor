@@ -69,9 +69,9 @@
     "url": "https://thelumpsaga.estes.pw",
     "icon": "https://icons.duckduckgo.com/ip3/thelumpsaga.estes.pw.ico",
     "slug": "the-lump-saga",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.96%",
@@ -81,6 +81,7 @@
     "timeMonth": 267,
     "timeYear": 319,
     "dailyMinutesDown": {
+      "2023-05-16": 0,
       "2023-05-14": 19,
       "2023-05-07": 40,
       "2023-01-29": 17
