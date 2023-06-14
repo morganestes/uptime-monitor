@@ -28,7 +28,7 @@ jobs:
       - name: Generate site
         uses: upptime/uptime-monitor@v1.29.0
         with:
-          command: "site"
+          command: "npm rebuild -y && site"
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
       - uses: peaceiris/actions-gh-pages@v3.7.3

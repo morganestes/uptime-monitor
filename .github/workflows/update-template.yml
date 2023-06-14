@@ -27,6 +27,6 @@ jobs:
       - name: Update template
         uses: upptime/uptime-monitor@master
         with:
-          command: "update-template"
+          command: "npm rebuild -y && update-template"
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
