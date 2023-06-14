@@ -27,7 +27,7 @@ jobs:
       - name: Check endpoint status
         uses: upptime/uptime-monitor@v1.29.0
         with:
-          command: "update && npm rebuild -y"
+          command: "npm rebuild -y && update"
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
           SECRETS_CONTEXT: ${{ toJson(secrets) }}
