@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/morganestes.com.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "86.61%",
+    "uptime": "86.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "80.73%",
+    "uptimeYear": "80.45%",
     "time": 353,
-    "timeDay": 60,
-    "timeWeek": 100,
+    "timeDay": 62,
+    "timeWeek": 98,
     "timeMonth": 99,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2024-06-08": 42,
+      "2024-06-09": 46,
+      "2024-06-08": 1440,
       "2024-06-07": 1440,
       "2024-06-06": 1440,
       "2024-06-05": 1440,
@@ -102,10 +103,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 215,
-    "timeDay": 173,
-    "timeWeek": 178,
-    "timeMonth": 184,
-    "timeYear": 203,
+    "timeDay": 126,
+    "timeWeek": 150,
+    "timeMonth": 179,
+    "timeYear": 202,
     "dailyMinutesDown": {}
   },
   {
@@ -114,7 +115,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/links.morganestes.me.ico",
     "slug": "glitch-in-bio",
     "status": "down",
-    "uptime": "26.76%",
+    "uptime": "26.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -125,7 +126,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-08": 42,
+      "2024-06-09": 46,
+      "2024-06-08": 1440,
       "2024-06-07": 1440,
       "2024-06-06": 1440,
       "2024-06-05": 1440,
@@ -488,8 +490,7 @@
       "2023-06-14": 1440,
       "2023-06-13": 1440,
       "2023-06-12": 1440,
-      "2023-06-11": 1440,
-      "2023-06-10": 1440
+      "2023-06-11": 1440
     }
   },
   {
@@ -503,17 +504,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.93%",
-    "time": 308,
-    "timeDay": 218,
-    "timeWeek": 266,
-    "timeMonth": 275,
+    "time": 307,
+    "timeDay": 304,
+    "timeWeek": 273,
+    "timeMonth": 277,
     "timeYear": 321,
     "dailyMinutesDown": {
       "2024-05-26": 175,
       "2024-01-06": 57,
       "2023-09-27": 18,
-      "2023-07-26": 16,
-      "2023-06-10": 90
+      "2023-07-26": 16
     }
   }
 ]
