@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/morganestes.com.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "65.37%",
+    "uptime": "65.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "33.88%",
+    "uptimeYear": "33.79%",
     "time": 135,
     "timeDay": 175,
     "timeWeek": 103,
     "timeMonth": 115,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2024-11-26": 55,
+      "2024-11-26": 511,
       "2024-11-25": 1440,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
@@ -266,7 +266,7 @@
     "url": "https://estestech.net",
     "icon": "https://icons.duckduckgo.com/ip3/estestech.net.ico",
     "slug": "site-hosting",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -277,7 +277,9 @@
     "timeWeek": 221,
     "timeMonth": 188,
     "timeYear": 201,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-26": 0
+    }
   },
   {
     "name": "Glitch in Bio",
@@ -285,7 +287,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/links.morganestes.me.ico",
     "slug": "glitch-in-bio",
     "status": "down",
-    "uptime": "20.19%",
+    "uptime": "20.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -296,7 +298,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-26": 55,
+      "2024-11-26": 511,
       "2024-11-25": 1440,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
