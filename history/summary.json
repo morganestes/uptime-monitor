@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/morganestes.com.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "52.01%",
+    "uptime": "51.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 120,
-    "timeDay": 82,
-    "timeWeek": 123,
+    "timeDay": 131,
+    "timeWeek": 129,
     "timeMonth": 133,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2025-05-24": 57,
+      "2025-05-25": 66,
+      "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
@@ -379,8 +380,7 @@
       "2024-05-29": 1440,
       "2024-05-28": 1440,
       "2024-05-27": 1440,
-      "2024-05-26": 1440,
-      "2024-05-25": 1440
+      "2024-05-26": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/estestech.net.ico",
     "slug": "site-hosting",
     "status": "down",
-    "uptime": "83.70%",
+    "uptime": "83.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "60.89%",
+    "uptimeYear": "60.62%",
     "time": 202,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2025-05-24": 57,
+      "2025-05-25": 66,
+      "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
@@ -553,7 +554,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/links.morganestes.me.ico",
     "slug": "glitch-in-bio",
     "status": "down",
-    "uptime": "16.07%",
+    "uptime": "16.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -564,7 +565,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-24": 57,
+      "2025-05-25": 66,
+      "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
@@ -927,8 +929,7 @@
       "2024-05-29": 1440,
       "2024-05-28": 1440,
       "2024-05-27": 1440,
-      "2024-05-26": 1440,
-      "2024-05-25": 1440
+      "2024-05-26": 1440
     }
   },
   {
@@ -943,10 +944,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 334,
-    "timeDay": 374,
-    "timeWeek": 327,
-    "timeMonth": 588,
-    "timeYear": 343,
+    "timeDay": 293,
+    "timeWeek": 322,
+    "timeMonth": 587,
+    "timeYear": 344,
     "dailyMinutesDown": {
       "2024-08-29": 21,
       "2024-05-26": 175
