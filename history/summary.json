@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/morganestes.com.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "46.12%",
+    "uptime": "46.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 122,
-    "timeDay": 159,
-    "timeWeek": 163,
-    "timeMonth": 195,
+    "timeDay": 109,
+    "timeWeek": 153,
+    "timeMonth": 194,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2025-09-13": 52,
+      "2025-09-14": 66,
+      "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
@@ -379,8 +380,7 @@
       "2024-09-18": 1440,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
-      "2024-09-15": 1440,
-      "2024-09-14": 1440
+      "2024-09-15": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/estestech.net.ico",
     "slug": "site-hosting",
     "status": "down",
-    "uptime": "74.21%",
+    "uptime": "74.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "30.21%",
+    "uptimeYear": "29.93%",
     "time": 206,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 203,
+    "timeYear": 204,
     "dailyMinutesDown": {
-      "2025-09-13": 52,
+      "2025-09-14": 66,
+      "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
@@ -665,7 +666,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/links.morganestes.me.ico",
     "slug": "glitch-in-bio",
     "status": "down",
-    "uptime": "14.25%",
+    "uptime": "14.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -676,7 +677,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-13": 52,
+      "2025-09-14": 66,
+      "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
@@ -1039,8 +1041,7 @@
       "2024-09-18": 1440,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
-      "2024-09-15": 1440,
-      "2024-09-14": 1440
+      "2024-09-15": 1440
     }
   },
   {
@@ -1055,9 +1056,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 336,
-    "timeDay": 219,
-    "timeWeek": 300,
-    "timeMonth": 285,
+    "timeDay": 434,
+    "timeWeek": 318,
+    "timeMonth": 291,
     "timeYear": 339,
     "dailyMinutesDown": {}
   }
