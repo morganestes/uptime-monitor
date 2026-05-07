@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/morganestes.com.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "37.25%",
-    "uptimeDay": "0.36%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "1.39%",
-    "uptimeYear": "0.00%",
+    "uptime": "37.30%",
+    "uptimeDay": "91.95%",
+    "uptimeWeek": "13.14%",
+    "uptimeMonth": "4.40%",
+    "uptimeYear": "0.25%",
     "time": 143,
-    "timeDay": 685,
-    "timeWeek": 263,
-    "timeMonth": 157,
-    "timeYear": 151,
+    "timeDay": 722,
+    "timeWeek": 275,
+    "timeMonth": 158,
+    "timeYear": 152,
     "dailyMinutesDown": {
       "2026-05-06": 240,
       "2026-05-05": 1440,
@@ -379,8 +379,7 @@
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
-      "2025-05-08": 1440,
-      "2025-05-07": 1440
+      "2025-05-08": 1440
     }
   },
   {
@@ -389,18 +388,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/estestech.net.ico",
     "slug": "site-hosting",
     "status": "down",
-    "uptime": "59.95%",
+    "uptime": "59.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 244,
+    "time": 232,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-06": 246,
+      "2026-05-07": 125,
+      "2026-05-06": 1440,
       "2026-05-05": 1440,
       "2026-05-04": 1440,
       "2026-05-03": 1440,
@@ -763,8 +763,7 @@
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
-      "2025-05-08": 1440,
-      "2025-05-07": 1440
+      "2025-05-08": 1440
     }
   },
   {
@@ -773,7 +772,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/links.morganestes.me.ico",
     "slug": "glitch-in-bio",
     "status": "down",
-    "uptime": "11.51%",
+    "uptime": "11.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -784,7 +783,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-06": 246,
+      "2026-05-07": 125,
+      "2026-05-06": 1440,
       "2026-05-05": 1440,
       "2026-05-04": 1440,
       "2026-05-03": 1440,
@@ -1147,8 +1147,7 @@
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
-      "2025-05-08": 1440,
-      "2025-05-07": 1440
+      "2025-05-08": 1440
     }
   },
   {
@@ -1158,15 +1157,15 @@
     "slug": "the-lump-saga",
     "status": "up",
     "uptime": "98.29%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.00%",
+    "uptimeDay": "91.60%",
+    "uptimeWeek": "13.09%",
     "uptimeMonth": "32.55%",
     "uptimeYear": "94.38%",
     "time": 297,
-    "timeDay": 202,
-    "timeWeek": 141,
-    "timeMonth": 159,
-    "timeYear": 283,
+    "timeDay": 371,
+    "timeWeek": 181,
+    "timeMonth": 167,
+    "timeYear": 284,
     "dailyMinutesDown": {
       "2026-05-06": 246,
       "2026-05-05": 1440,
