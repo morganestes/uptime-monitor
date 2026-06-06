@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/morganestes.com.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "38.75%",
+    "uptime": "38.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.52%",
-    "uptimeYear": "8.20%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "8.48%",
     "time": 146,
-    "timeDay": 187,
-    "timeWeek": 158,
+    "timeDay": 78,
+    "timeWeek": 141,
     "timeMonth": 183,
     "timeYear": 153,
     "dailyMinutesDown": {
@@ -349,8 +349,7 @@
       "2025-06-10": 1440,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
-      "2025-06-07": 1440,
-      "2025-06-06": 1440
+      "2025-06-07": 1440
     }
   },
   {
@@ -359,7 +358,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/estestech.net.ico",
     "slug": "site-hosting",
     "status": "down",
-    "uptime": "58.52%",
+    "uptime": "58.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -370,7 +369,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-05": 158,
+      "2026-06-06": 146,
+      "2026-06-05": 1440,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
@@ -733,8 +733,7 @@
       "2025-06-10": 1440,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
-      "2025-06-07": 1440,
-      "2025-06-06": 1440
+      "2025-06-07": 1440
     }
   },
   {
@@ -754,7 +753,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-05": 158,
+      "2026-06-06": 146,
+      "2026-06-05": 1440,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
@@ -1117,8 +1117,7 @@
       "2025-06-10": 1440,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
-      "2025-06-07": 1440,
-      "2025-06-06": 1440
+      "2025-06-07": 1440
     }
   },
   {
@@ -1130,12 +1129,12 @@
     "uptime": "98.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.51%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "94.38%",
     "time": 297,
-    "timeDay": 266,
-    "timeWeek": 248,
-    "timeMonth": 280,
+    "timeDay": 391,
+    "timeWeek": 272,
+    "timeMonth": 290,
     "timeYear": 271,
     "dailyMinutesDown": {
       "2026-05-06": 246,
