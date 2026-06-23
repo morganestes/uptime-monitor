@@ -6,11 +6,13 @@ sites:
   - name: Blog
     url: https://morganestes.com
   - name: Site Hosting
-    url: https://estestech.net
-  - name: Glitch in Bio
-    url: https://links.morganestes.me
+    url: https://sites.estestech.net
+  - name: The Lump
+    url: https://thelump.estes.pw
   - name: The Lump Saga
     url: https://thelumpsaga.estes.pw
+  - name: Home Lab
+    url: https://35735.uk
 
 assignees:
   - morganestes
