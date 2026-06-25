@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/morganestes.com.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "39.67%",
+    "uptime": "39.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "13.41%",
+    "uptimeYear": "13.68%",
     "time": 147,
-    "timeDay": 160,
-    "timeWeek": 171,
-    "timeMonth": 160,
+    "timeDay": 109,
+    "timeWeek": 163,
+    "timeMonth": 159,
     "timeYear": 154,
     "dailyMinutesDown": {
       "2026-05-06": 240,
@@ -330,8 +330,7 @@
       "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
-      "2025-06-26": 1440,
-      "2025-06-25": 1440
+      "2025-06-26": 1440
     }
   },
   {
@@ -340,7 +339,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sites.estestech.net.ico",
     "slug": "site-hosting",
     "status": "down",
-    "uptime": "57.65%",
+    "uptime": "57.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -351,7 +350,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-24": 150,
+      "2026-06-25": 152,
+      "2026-06-24": 1440,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
@@ -714,8 +714,7 @@
       "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
-      "2025-06-26": 1440,
-      "2025-06-25": 1440
+      "2025-06-26": 1440
     }
   },
   {
@@ -729,11 +728,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 277,
-    "timeDay": 277,
-    "timeWeek": 277,
-    "timeMonth": 277,
-    "timeYear": 277,
+    "time": 282,
+    "timeDay": 294,
+    "timeWeek": 282,
+    "timeMonth": 282,
+    "timeYear": 282,
     "dailyMinutesDown": {}
   },
   {
@@ -748,8 +747,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.38%",
     "time": 297,
-    "timeDay": 228,
-    "timeWeek": 276,
+    "timeDay": 295,
+    "timeWeek": 280,
     "timeMonth": 259,
     "timeYear": 264,
     "dailyMinutesDown": {
@@ -783,18 +782,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/35735.uk.ico",
     "slug": "home-lab",
     "status": "down",
-    "uptime": "0.06%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.06%",
-    "uptimeMonth": "0.06%",
-    "uptimeYear": "0.06%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-24": 151,
+      "2026-06-25": 152,
+      "2026-06-24": 1440,
       "2026-06-23": 203
     }
   }
