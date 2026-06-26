@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/morganestes.com.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "39.72%",
+    "uptime": "39.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "13.68%",
+    "uptimeYear": "13.96%",
     "time": 147,
-    "timeDay": 109,
-    "timeWeek": 163,
-    "timeMonth": 159,
+    "timeDay": 100,
+    "timeWeek": 148,
+    "timeMonth": 157,
     "timeYear": 154,
     "dailyMinutesDown": {
       "2026-05-06": 240,
@@ -329,8 +329,7 @@
       "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
-      "2025-06-27": 1440,
-      "2025-06-26": 1440
+      "2025-06-27": 1440
     }
   },
   {
@@ -339,7 +338,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sites.estestech.net.ico",
     "slug": "site-hosting",
     "status": "down",
-    "uptime": "57.60%",
+    "uptime": "57.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -350,7 +349,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-25": 152,
+      "2026-06-26": 155,
+      "2026-06-25": 1440,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
@@ -713,8 +713,7 @@
       "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
-      "2025-06-27": 1440,
-      "2025-06-26": 1440
+      "2025-06-27": 1440
     }
   },
   {
@@ -729,7 +728,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 282,
-    "timeDay": 294,
+    "timeDay": 282,
     "timeWeek": 282,
     "timeMonth": 282,
     "timeYear": 282,
@@ -747,9 +746,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.38%",
     "time": 297,
-    "timeDay": 295,
-    "timeWeek": 280,
-    "timeMonth": 259,
+    "timeDay": 247,
+    "timeWeek": 283,
+    "timeMonth": 260,
     "timeYear": 264,
     "dailyMinutesDown": {
       "2026-05-06": 246,
@@ -793,7 +792,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-25": 152,
+      "2026-06-26": 155,
+      "2026-06-25": 1440,
       "2026-06-24": 1440,
       "2026-06-23": 203
     }
