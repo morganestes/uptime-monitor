@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/morganestes.com.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "40.09%",
+    "uptime": "40.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "15.87%",
-    "time": 149,
-    "timeDay": 49,
-    "timeWeek": 212,
-    "timeMonth": 164,
-    "timeYear": 156,
+    "uptimeYear": "16.14%",
+    "time": 150,
+    "timeDay": 510,
+    "timeWeek": 271,
+    "timeMonth": 179,
+    "timeYear": 157,
     "dailyMinutesDown": {
       "2026-05-06": 240,
       "2026-05-05": 1440,
@@ -321,8 +321,7 @@
       "2025-07-08": 1440,
       "2025-07-07": 1440,
       "2025-07-06": 1440,
-      "2025-07-05": 1440,
-      "2025-07-04": 1440
+      "2025-07-05": 1440
     }
   },
   {
@@ -331,7 +330,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sites.estestech.net.ico",
     "slug": "site-hosting",
     "status": "down",
-    "uptime": "57.24%",
+    "uptime": "57.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -342,7 +341,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-03": 126,
+      "2026-07-04": 124,
+      "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
       "2026-06-30": 1440,
@@ -705,8 +705,7 @@
       "2025-07-08": 1440,
       "2025-07-07": 1440,
       "2025-07-06": 1440,
-      "2025-07-05": 1440,
-      "2025-07-04": 1440
+      "2025-07-05": 1440
     }
   },
   {
@@ -720,11 +719,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 298,
-    "timeDay": 286,
-    "timeWeek": 307,
-    "timeMonth": 298,
-    "timeYear": 298,
+    "time": 293,
+    "timeDay": 244,
+    "timeWeek": 306,
+    "timeMonth": 293,
+    "timeYear": 293,
     "dailyMinutesDown": {}
   },
   {
@@ -738,11 +737,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.38%",
-    "time": 296,
-    "timeDay": 286,
-    "timeWeek": 321,
-    "timeMonth": 278,
-    "timeYear": 266,
+    "time": 297,
+    "timeDay": 292,
+    "timeWeek": 328,
+    "timeMonth": 280,
+    "timeYear": 265,
     "dailyMinutesDown": {
       "2026-05-06": 246,
       "2026-05-05": 1440,
@@ -785,7 +784,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-03": 126,
+      "2026-07-04": 124,
+      "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
       "2026-06-30": 1440,
