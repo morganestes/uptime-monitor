@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/morganestes.com.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "42.30%",
+    "uptime": "42.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "29.28%",
+    "uptimeYear": "29.55%",
     "time": 157,
-    "timeDay": 114,
-    "timeWeek": 150,
-    "timeMonth": 209,
+    "timeDay": 208,
+    "timeWeek": 163,
+    "timeMonth": 211,
     "timeYear": 166,
     "dailyMinutesDown": {
       "2026-05-06": 240,
@@ -272,8 +272,7 @@
       "2025-08-26": 1440,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
-      "2025-08-23": 1440,
-      "2025-08-22": 1440
+      "2025-08-23": 1440
     }
   },
   {
@@ -282,7 +281,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sites.estestech.net.ico",
     "slug": "site-hosting",
     "status": "down",
-    "uptime": "55.13%",
+    "uptime": "55.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -293,7 +292,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-21": 47,
+      "2026-08-22": 43,
+      "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
@@ -656,8 +656,7 @@
       "2025-08-26": 1440,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
-      "2025-08-23": 1440,
-      "2025-08-22": 1440
+      "2025-08-23": 1440
     }
   },
   {
@@ -671,11 +670,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 288,
-    "timeDay": 242,
+    "time": 287,
+    "timeDay": 222,
     "timeWeek": 288,
-    "timeMonth": 299,
-    "timeYear": 288,
+    "timeMonth": 300,
+    "timeYear": 287,
     "dailyMinutesDown": {}
   },
   {
@@ -684,14 +683,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/thelumpsaga.estes.pw.ico",
     "slug": "the-lump-saga",
     "status": "up",
-    "uptime": "98.42%",
+    "uptime": "98.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.38%",
     "time": 294,
-    "timeDay": 210,
-    "timeWeek": 231,
+    "timeDay": 215,
+    "timeWeek": 229,
     "timeMonth": 255,
     "timeYear": 258,
     "dailyMinutesDown": {
@@ -736,7 +735,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-21": 48,
+      "2026-08-22": 43,
+      "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
