@@ -5,8 +5,8 @@ user-agent: morganestes
 sites:
   - name: Blog
     url: https://morganestes.com
-  - name: Site Hosting
-    url: https://sites.estestech.net
+#  - name: Site Hosting
+#    url: https://sites.estestech.net
   - name: The Lump
     url: https://thelump.estes.pw
   - name: The Lump Saga
