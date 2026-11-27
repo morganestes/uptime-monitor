@@ -11,8 +11,8 @@ sites:
     url: https://thelump.estes.pw
   - name: The Lump Saga
     url: https://thelumpsaga.estes.pw
-  - name: Home Lab
-    url: https://35735.uk
+#  - name: Home Lab
+#    url: https://35735.uk
 
 assignees:
   - morganestes
