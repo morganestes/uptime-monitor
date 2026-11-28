@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/morganestes.com.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "46.26%",
+    "uptime": "46.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "56.19%",
+    "uptimeYear": "56.46%",
     "time": 167,
     "timeDay": 0,
     "timeWeek": 0,
@@ -174,8 +174,7 @@
       "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
-      "2025-11-29": 1440,
-      "2025-11-28": 1440
+      "2025-11-29": 1440
     }
   },
   {
@@ -211,7 +210,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 254,
+    "timeYear": 255,
     "dailyMinutesDown": {
       "2026-05-06": 246,
       "2026-05-05": 1440,
